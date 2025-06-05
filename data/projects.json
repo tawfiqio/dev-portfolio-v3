@@ -1,0 +1,14 @@
+[
+  {
+    "title": "AI Code Reviewer",
+    "description": "An OpenAI-powered GitHub bot that reviews pull requests",
+    "tech": ["Python", "OpenAI", "Flask"],
+    "link": "https://github.com/yourusername/ai-code-reviewer"
+  },
+  {
+    "title": "Remote Job Board",
+    "description": "A fullstack remote jobs site with admin dashboard",
+    "tech": ["Next.js", "Stripe", "Prisma"],
+    "link": "https://github.com/yourusername/remote-next"
+  }
+]
